@@ -1,0 +1,34 @@
+C:\Users\user\Desktop\GM SOUL SIDE\gamemodes\DYNAMIC\factionveh.pwn(15) : îøèáêà 001: îæèäàëñÿ òîêåí "-identifier-", íî íàéäåí "("
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\amx_header.inc(131) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc(810) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\opcode.inc(830) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\asm.inc(247) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\asm.inc(290) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\codescan.inc(340) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\..\YSI_Core\..\YSI_Storage\..\YSI_Internal\..\amx\codescan.inc(484) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(153) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(237) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(617) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "sName" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(636) : îøèáêà 035: íåñîâïàäåíèå òèïîâ àðãóìåíòîâ (àðãóìåíò 1)
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(641) : îøèáêà 035: íåñîâïàäåíèå òèïîâ àðãóìåíòîâ (àðãóìåíò 1)
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(646) : îøèáêà 035: íåñîâïàäåíèå òèïîâ àðãóìåíòîâ (àðãóìåíò 3)
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(646) -- (648) : îøèáêà 035: íåñîâïàäåíèå òèïîâ àðãóìåíòîâ (àðãóìåíò 5)
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(652) : îøèáêà 035: íåñîâïàäåíèå òèïîâ àðãóìåíòîâ (àðãóìåíò 1)
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(617) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "sName"
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(605) : èäåíòèôèêàòîðó ïðèñâîåíî çíà÷åíèå, íî îí íå èñïîëüçóåòñÿ: "namelen"
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(599) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "idx"
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(831) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(1011) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\pawno\include\YSI\..\YSI_Coding\y_hooks/impl.inc(1094) : ïðåäóïðåæäåíèå 219: ïåðåìåííàÿ "i" óæå îáúÿâëåíà â áîëåå ãëîáàëüíîé çîíå âèäèìîñòè
+C:\Users\user\Desktop\GM SOUL SIDE\gamemodes\DYNAMIC\factionveh.pwn(19) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "mysql_tquery"
+C:\Users\user\Desktop\GM SOUL SIDE\gamemodes\DYNAMIC\factionveh.pwn(24) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "foreach"
+C:\Users\user\Desktop\GM SOUL SIDE\gamemodes\DYNAMIC\factionveh.pwn(24) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+C:\Users\user\Desktop\GM SOUL SIDE\gamemodes\DYNAMIC\factionveh.pwn(24) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "i"
+C:\Users\user\Desktop\GM SOUL SIDE\gamemodes\DYNAMIC\factionveh.pwn(24) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:11.
